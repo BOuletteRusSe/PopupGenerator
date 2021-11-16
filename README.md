@@ -1,8 +1,10 @@
 ## PopupGenerator
 
+/!\ Python 3.8.6
+
 /!\ NEED AUTOIT:
 * pip install autoit
-For more info : https://pypi.org/project/autoit/
+* For more info : https://pypi.org/project/autoit/
 
 -------------
 
